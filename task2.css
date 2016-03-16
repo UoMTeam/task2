@@ -1,0 +1,17 @@
+nav {
+    background-color: #333333;
+}
+
+nav li a{
+    color: white;
+}
+
+nav li:last-child a{
+    color: #aaa;
+}
+
+nav li {
+    list-style: none;
+    display: inline;
+    
+}
